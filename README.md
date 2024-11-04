@@ -1,0 +1,1 @@
+# YapayZekaBaslangic
