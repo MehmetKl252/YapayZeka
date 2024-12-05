@@ -1,0 +1,26 @@
+//////////////https://scikit-learn.org/stable/install.html////////////////////////
+pip install -U scikit-learn
+python -m venv sklearn-env
+sklearn-env\Scripts\activate  # activate
+pip install -U scikit-learn
+
+//////////////////////////////////////////Kütüphaneler///////////////////////////////
+python.exe -m pip install --upgrade pip
+pip install --upgrade pip
+pip install sklearn-pandas
+pip install --upgrade numpy scipy
+pip install scikit-learn
+pip install seaborn
+pip install matplotlib
+pip install scikit-learn
+pip install opencv-python
+pip install pandas
+pip install numpy 
+pip install gradio
+////////////////////////scikit-learnKurulumda bir hata durumunda :///////////////////////////
+pip install scikit-learn
+pip install --upgrade pip
+python -c "import sklearn; print(sklearn.__version__)"
+
+Sanal Ortamı (Sanal Ortam) kullandığınızdan aktif olduğunuzdan emin olun.
+pip install --upgrade numpy scipy
