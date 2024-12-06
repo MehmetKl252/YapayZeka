@@ -1,3 +1,5 @@
+pip install --upgrade kütüphane_adı
+
 //////////////https://scikit-learn.org/stable/install.html////////////////////////
 pip install -U scikit-learn
 python -m venv sklearn-env
@@ -24,3 +26,7 @@ python -c "import sklearn; print(sklearn.__version__)"
 
 Sanal Ortamı (Sanal Ortam) kullandığınızdan aktif olduğunuzdan emin olun.
 pip install --upgrade numpy scipy
+/////////////////////////////////alternatif olarak anaconda ile kurulum:////////////////////
+conda --name opencv
+conda activate opencv
+conda -c conda-forge opencv
